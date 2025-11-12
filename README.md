@@ -1,11 +1,11 @@
 # EcoMind 🌎
 
 # Integrantes 👥
-1- Anita Vasconcelos Silva
-2- Júllia Mell Souza Silva
-3- Maria Eduarda Silva de Albuquerque
-4- Raíssa Beatriz Pereira de Oliveira
-5- Sabrina Yasmin Pimentel
+- 1- Anita Vasconcelos Silva
+- 2- Júllia Mell Souza Silva
+- 3- Maria Eduarda Silva de Albuquerque
+- 4- Raíssa Beatriz Pereira de Oliveira
+- 5- Sabrina Yasmin Pimentel
 
 # Descrição do Problema 🚫
 A falta de conscientização ambiental é um dos principais desafios enfrentados pela sociedade moderna. O consumo excessivo, 
@@ -18,14 +18,14 @@ O app transforma pequenas ações ecológicas em um jogo educativo com pontuaç�
 Exemplos de desafios:
 Usar copo reutilizável por um dia
 
-Desligar luzes desnecessárias
-Separar o lixo reciclável
-Economizar água no banho
+- Desligar luzes desnecessárias
+- Separar o lixo reciclável
+- Economizar água no banho
 
 # Tecnologias Utilizadas 🧰 
 
-Linguagem: Kotlin
-IDE: Android Studio
+- Linguagem: Kotlin
+- IDE: Android Studio
 
 # Objetivo Educacional 🧠
 Promover a educação ambiental de forma acessível e engajante, incentivando o público a refletir sobre 
