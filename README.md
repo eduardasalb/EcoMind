@@ -1,11 +1,11 @@
 # EcoMind 🌎
 
 # Integrantes 👥
-- 1- Anita Vasconcelos Silva
-- 2- Júllia Mell Souza Silva
-- 3- Maria Eduarda Silva de Albuquerque
-- 4- Raíssa Beatriz Pereira de Oliveira
-- 5- Sabrina Yasmin Pimentel
+- Anita Vasconcelos Silva
+- Júllia Mell Souza Silva
+- Maria Eduarda Silva de Albuquerque
+- Raíssa Beatriz Pereira de Oliveira
+- Sabrina Yasmin Pimentel
 
 # Descrição do Problema 🚫
 A falta de conscientização ambiental é um dos principais desafios enfrentados pela sociedade moderna. O consumo excessivo, 
