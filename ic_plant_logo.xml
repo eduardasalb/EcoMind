@@ -1,0 +1,43 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="128dp"
+    android:height="128dp"
+    android:viewportWidth="512"
+    android:viewportHeight="512">
+
+    <!-- Folha principal -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M256,16C156,96 96,176 96,272c0,106 86,192 160,192 74,0 160,-86 160,-192 0,-96 -60,-176 -160,-256z"/>
+
+    <!-- Veias da folha -->
+    <path
+        android:strokeColor="#2E7D32"
+        android:strokeWidth="18"
+        android:strokeLineCap="round"
+        android:pathData="M256,64 L256,432" />
+
+    <path
+        android:strokeColor="#2E7D32"
+        android:strokeWidth="14"
+        android:strokeLineCap="round"
+        android:pathData="M256,200 C200,240 160,300 150,360" />
+
+    <path
+        android:strokeColor="#2E7D32"
+        android:strokeWidth="14"
+        android:strokeLineCap="round"
+        android:pathData="M256,200 C312,240 352,300 362,360" />
+
+    <path
+        android:strokeColor="#2E7D32"
+        android:strokeWidth="10"
+        android:strokeLineCap="round"
+        android:pathData="M256,280 C210,310 188,350 180,392" />
+
+    <path
+        android:strokeColor="#2E7D32"
+        android:strokeWidth="10"
+        android:strokeLineCap="round"
+        android:pathData="M256,280 C302,310 324,350 332,392" />
+
+</vector>
